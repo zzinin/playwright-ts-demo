@@ -1,3 +1,0 @@
-[SKIP ASSERT] First Name for error_user: expected 'Rahul5', got 'Rahul5'
-[SKIP ASSERT] Last Name for error_user: expected 'Ranjan5', got ''
-[SKIP ASSERT] Postal Code for error_user: expected 'CF11 7JA', got 'CF11 7JA'
