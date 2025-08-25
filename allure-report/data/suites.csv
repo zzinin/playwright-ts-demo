@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","42857","Login and purchase flow for user: standard_user","","Mon Aug 25 12:10:02 BST 2025","passed","Mon Aug 25 12:10:45 BST 2025","End-to-End Purchase Flow on Sauce Demo - Data Driven","saucedemo-purchase.spec.ts","",""
+"","30621","Login and purchase flow for user: problem_user","","Mon Aug 25 12:10:56 BST 2025","failed","Mon Aug 25 12:11:27 BST 2025","End-to-End Purchase Flow on Sauce Demo - Data Driven","saucedemo-purchase.spec.ts","",""
+"","43934","Login and purchase flow for user: visual_user","","Mon Aug 25 12:12:53 BST 2025","passed","Mon Aug 25 12:13:37 BST 2025","End-to-End Purchase Flow on Sauce Demo - Data Driven","saucedemo-purchase.spec.ts","",""
+"","29620","Login and purchase flow for user: error_user","","Mon Aug 25 12:12:22 BST 2025","failed","Mon Aug 25 12:12:52 BST 2025","End-to-End Purchase Flow on Sauce Demo - Data Driven","saucedemo-purchase.spec.ts","",""
+"","10501","Login and purchase flow for user: locked_out_user","","Mon Aug 25 12:10:46 BST 2025","passed","Mon Aug 25 12:10:56 BST 2025","End-to-End Purchase Flow on Sauce Demo - Data Driven","saucedemo-purchase.spec.ts","",""
+"","54711","Login and purchase flow for user: performance_glitch_user","","Mon Aug 25 12:11:28 BST 2025","passed","Mon Aug 25 12:12:22 BST 2025","End-to-End Purchase Flow on Sauce Demo - Data Driven","saucedemo-purchase.spec.ts","",""
