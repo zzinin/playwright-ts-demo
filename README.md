@@ -1,5 +1,3 @@
-Perfect 👍 Adding a **sample Page Object + test** section will make your README much more beginner-friendly for teammates. Here’s an updated README with a practical example that uses `pages/`, `testData/`, and `testcontexts/`:
-
 ---
 
 # 🚀 Playwright + TypeScript Automation Framework
